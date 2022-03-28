@@ -17,7 +17,7 @@ export default () => ({
             id: new Date().getTime() + 2000, // obtienes una fecha del tipo 126534652645237
             date: new Date().toDateString(),  // obtienes una fecha del tipo sat 23, julio
             text: 'Enim velit consectetur minim nulla. Sunt dolore dolor tempor sit dolor. In est sint nisi ad. Tempor sunt veniam eiusmod incididunt tempor. Mollit est enim irure eiusmod esse dolor deserunt anim irure quis ea tempor anim. Aliquip aute occaecat in duis eu ipsum.',
-            picture: null,  // https://...
+            picture: null,  // https://.....................
         },
     ]
 })
